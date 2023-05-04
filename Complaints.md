@@ -25,7 +25,7 @@ A complaint is any expression of dissatisfaction, whether verbal or written, reg
 
 Customers can file a complaint through the following channels:
 
-* Email: (complaints@asgcommunications.com.au)[mailto:complaints@asgcommunications.com.au]
+* Email: [complaints@asgcommunications.com.au](mailto:complaints@asgcommunications.com.au)
 * Phone: (07) 3277-3636
 * Online form: [Complaints Form](https://asgcommunications.com.au/complaints)
     
@@ -57,7 +57,7 @@ ASG Communications is dedicated to continuously improving its products, services
 
 ## Feedback
 
-If you have any questions or comments regarding this policy, please contact us at (feedback@asgcommunications.com.au)[mailto:feedback@asgcommunications.com.au].
+If you have any questions or comments regarding this policy, please contact us at [feedback@asgcommunications.com.au](mailto:feedback@asgcommunications.com.au).
 
 ## Policy Review
 
