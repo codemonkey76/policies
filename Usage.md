@@ -40,6 +40,6 @@
 
 19. These terms plus the terms of the chosen Service(s) constitute the entire Agreement between the Customer and ASG Communications in relation to Service(s). Any condition, warranty, representation or other term which might otherwise be implied into or incorporated into these terms and conditions, or any collateral contract, whether by statute, common law or otherwise, is hereby excluded. Neither party shall have any remedy in respect of any untrue statement made to it upon which it relied in entering into this Agreement (unless such untrue statement was made fraudulently) and each party's only remedy shall be for breach of contract as provided in this Agreement. 
  
-20. Extra terms and conditions relating to fair use apply for plans with included call value (such as Unlimited Plans). Your acceptance of these terms includes acceptance of plan-specific terms on the critical information summary found here: [asgcommunications.com.au/cis](asgcommunications.com.au/cis) 
+20. Extra terms and conditions relating to fair use apply for plans with included call value (such as Unlimited Plans). Your acceptance of these terms includes acceptance of plan-specific terms on the critical information summary found here: [asgcommunications.com.au/cis](https://asgcommunications.com.au/cis) 
 
 21. These terms and conditions are governed by the laws and regulations of the state of Queensland.
